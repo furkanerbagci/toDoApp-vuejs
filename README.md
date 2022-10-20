@@ -7,7 +7,7 @@
 ```
 npm install
 ```
-## axios install
+## Axios install
 ```
 npm install --save axios
 ```
