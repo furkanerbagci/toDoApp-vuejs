@@ -1,4 +1,7 @@
-# 2-vue
+# toDoApp | vuejs
+
+![toDoImg](https://user-images.githubusercontent.com/101906533/197042447-7485c0f5-a9f5-48fb-b37e-8ffcba99726e.JPG)
+
 
 ## Project setup
 ```
